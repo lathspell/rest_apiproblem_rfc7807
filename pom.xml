@@ -22,8 +22,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git@github.com:lathspell/rest_apiproblem_rfc7807.git</connection>
-        <developerConnection>scm:git@github.com:lathspell/rest_apiproblem_rfc7807.git</developerConnection>
+        <connection>scm:git:git@github.com:lathspell/rest_apiproblem_rfc7807.git</connection>
+        <developerConnection>scm:git:git@github.com:lathspell/rest_apiproblem_rfc7807.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
